@@ -57,7 +57,7 @@ rag-telecom-chatbot/
 ```bash
 git clone <repo-url>
 cd rag-telecom-chatbot
-uv sync          # or: pip install -e .
+pip install -e .
 ```
 
 **2. Configure environment variables**
